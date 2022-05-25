@@ -1,5 +1,6 @@
-# cadastro_de_funcionarios_js :computer:
-Cadastro de Funcionários - JavaScrip - CRUD - Local Storage
+:computer: CADASTRO DE FUNCIONÁRIOS :computer:
+
+Cadastro de Funcionários - JavaScrip - CRUD - Local Storage 
 - Create, Read, Update and Delete
 
 - Link: https://lucastaborda99.github.io/cadastro_de_funcionarios_js/
