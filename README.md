@@ -2,7 +2,6 @@
 -
 - Cadastro de Funcionários - JavaScrip - CRUD - Local Storage 
 - Create, Read, Update and Delete
-- Link: https://lucastaborda99.github.io/cadastro_de_funcionarios_js/
 - Demo:
 ![Screenshot from 2022-05-25 18-16-03](https://user-images.githubusercontent.com/90734834/170368663-031533ef-d104-4c35-a9cd-e4edd39a07c9.png)
 
